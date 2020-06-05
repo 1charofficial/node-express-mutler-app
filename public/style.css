@@ -1,0 +1,25 @@
+* {
+	padding: 0;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+.navbar {
+    background-color:  black;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    padding: 1.5em;
+    }
+    
+.navbar ul li { 
+font-family: 'Advent Pro', sans-serif;
+list-style-type: none;
+}
+    
+.navbar li a { 
+    text-decoration: none;
+    color: white;
+    padding: 2em;
+}
